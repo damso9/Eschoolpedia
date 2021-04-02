@@ -37,9 +37,10 @@ a:hover{
 .nav-link {
     color: black;
 }
-#student{
+#student, #parent, #admin, #staff{
     color: #3CB161;
 }
+
 .active:hover {
     color: #3CB161;
 }
@@ -93,6 +94,7 @@ a:hover{
 .info-here a {
     color:#3CB161;
     font-weight: 700;
+    text-decoration: none;
 }
 .logo {
     width: 4.0em;
